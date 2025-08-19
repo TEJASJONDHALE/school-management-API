@@ -34,7 +34,8 @@ To run this project locally, follow these steps:
 3.  **Set up the database:**
     -   Create a MySQL database.
     -   Run the `CREATE TABLE` script found in the database setup instructions to create the `schools` table.
-    ```
+
+4. Refer *.env.example* in the root directory and add your database credentials.
 
 4.  **Start the server:**
     ```bash
